@@ -1,0 +1,1209 @@
+{
+  "meta": {
+    "title": "El Bestiario del Emprendimiento Latinoamericano",
+    "subtitle": "Las criaturas invisibles que explican por qué algunos proyectos florecen y otros desaparecen.",
+    "author": "Jesús Díaz (Coach JD)",
+    "publisher": "Movimiento Colibrí LATAM",
+    "url": "https://coachjesusdiaz.com/libro_web/bestiario-latam/",
+    "lang": "es",
+    "shortTitle": "Bestiario Latam",
+    "htmlTitle": "El Bestiario del Emprendimiento Latinoamericano",
+    "coverFlat": "images/portada.jpg",
+    "coverImage": "images/portada-mockup.jpg",
+    "coverImageAlt": "El libro El Bestiario del Emprendimiento Latinoamericano, con su portada de cuaderno de explorador",
+    "coverMode": "poster",
+    "startLabel": "Abrir el bestiario",
+    "readingTimeMinutes": 26,
+    "leads": {
+      "webhook": {
+        "url": "https://coachjesusdiaz.com/libro_web/correo/enviar.php?libro=bestiario-latam",
+        "sendsEmail": true
+      },
+      "consent": {
+        "text": "Acepto recibir mi resultado por correo.",
+        "required": true
+      }
+    }
+  },
+  "chapters": [
+    {
+      "id": "prologo",
+      "title": "Por qué necesitamos nuevas figuras",
+      "kicker": "Prólogo",
+      "numbered": false,
+      "hero": {
+        "src": "images/prologo-hero.jpg",
+        "alt": "Un mapa antiguo de América Latina sobre una mesa de madera, iluminado por una lámpara de queroseno",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Durante años caminé el ecosistema emprendedor latinoamericano con una sensación difícil de nombrar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Escuchaba las palabras correctas. Veía presentaciones bien armadas, métricas prolijas, discursos convincentes. Y aun así, algo no encajaba. Como cuando una película está bien filmada, pero el guion pertenece a otro país. Todo parece funcionar… excepto la verdad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Durante mucho tiempo pensé que el problema era la falta de talento. Que en América Latina no emprendíamos lo suficiente, o no lo hacíamos “bien”. Que necesitábamos más formación, más capital, más fórmulas importadas. Hoy sé que ese diagnóstico era incompleto."
+        },
+        {
+          "type": "quote",
+          "text": "El problema no es la falta de talento. El problema es la falta de lenguaje."
+        },
+        {
+          "type": "heading",
+          "text": "Proyectos que nadie supo nombrar"
+        },
+        {
+          "type": "paragraph",
+          "text": "He visto proyectos valiosos quedar fuera de conversaciones clave. Funcionaban; lo que no sabían era cómo nombrarse en el idioma que el sistema esperaba escuchar. Procesos largos y cuidadosos eran leídos como lentitud. Trayectorias resilientes, como debilidad. Aprendizaje real, como falta de ambición."
+        },
+        {
+          "type": "heading",
+          "text": "Bestias ajenas"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mientras tanto, adoptamos bestias ajenas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unicornios. Gacelas. Cebras. Figuras legítimas, nacidas para explicar fenómenos reales en otros contextos. El problema fue su importación acrítica. Cuando esas metáforas se usan fuera de lugar y de tiempo, dejan de iluminar. Filtran. Excluyen."
+        },
+        {
+          "type": "image",
+          "id": "prologo-1",
+          "src": "images/prologo-1.jpg",
+          "alt": "Una brújula de latón sobre un mapa dibujado a mano que no coincide con el terreno de la mesa",
+          "aspect": "3:2"
+        },
+        {
+          "type": "heading",
+          "text": "Metáforas que ordenan la realidad"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fue ahí cuando entendí el verdadero poder de las metáforas. Son herramientas cognitivas. Las metáforas no explican la realidad: la ordenan. Nombrar es hacer visible. Y lo que no se nombra, no se cuida, no se acompaña, no se financia."
+        },
+        {
+          "type": "heading",
+          "text": "Cuatro figuras, un solo sistema"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las figuras que propongo en este libro no aparecieron de forma aislada, como piezas sueltas del imaginario emprendedor. Emergieron interconectadas, observándose unas a otras, revelando tensiones, errores de lectura y vacíos estructurales del ecosistema latinoamericano."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Sirena pone en evidencia el desajuste entre promesa y realidad. El Cisne muestra cuánto valor se descarta por no saber reconocerlo a tiempo. El Colibrí encarna la lógica real de supervivencia y adaptación. Y el Delfín aparece para recordarnos que, sin acompañamiento temprano, el aprendizaje se pierde."
+        },
+        {
+          "type": "quote",
+          "text": "No son dogmas. Son lentes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Este bestiario no viene a decirte cómo emprender, ni a reemplazar narrativas existentes. Viene a conectarlas, a ordenarlas, a visibilizar fenómenos que siempre estuvieron ahí, pero sin nombre. El Movimiento Colibrí LATAM nace de esta misma convicción. Es un marco de lectura compartido, abierto, sin pretensión de oposición ni de verdad cerrada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si buscas recetas rápidas, este no es tu libro. Pero si alguna vez sentiste que tu proyecto avanzaba en silencio, con más aprendizaje que aplausos, y que algo valioso estaba ocurriendo aunque nadie supiera cómo nombrarlo… entonces estás en el lugar correcto."
+        },
+        {
+          "type": "quote",
+          "text": "Este bestiario no explica. Invita."
+        }
+      ]
+    },
+    {
+      "id": "bestiario-global",
+      "title": "El bestiario global (y sus límites)",
+      "kicker": "Capítulo 1",
+      "hero": {
+        "src": "images/bestiario-global-hero.jpg",
+        "alt": "Vitrina antigua de gabinete con estatuillas de bronce de un unicornio, una gacela, una cebra y un camello",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Antes de intentar nombrar nuestras propias criaturas, es justo detenerse un momento y observar el bestiario que ya existe."
+        },
+        {
+          "type": "paragraph",
+          "text": "El ecosistema emprendedor global no carece de metáforas. Al contrario, está poblado de figuras potentes que ayudaron —y aún ayudan— a explicar fenómenos reales. El problema comienza cuando olvidamos para qué fueron creadas."
+        },
+        {
+          "type": "heading",
+          "text": "Para qué sirvieron estas figuras"
+        },
+        {
+          "type": "paragraph",
+          "text": "El Unicornio apareció para nombrar algo extraordinario: empresas privadas capaces de alcanzar valuaciones superiores a los mil millones de dólares en plazos relativamente cortos. En su origen era una rareza estadística. El Unicornio ordenó la conversación alrededor de la escala, la velocidad y la captura masiva de valor. Permitió al capital de riesgo identificar un tipo específico de apuesta y construir un lenguaje común para evaluarla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las Gacelas ayudaron a explicar otro fenómeno: organizaciones que no necesariamente alcanzan valuaciones descomunales, pero que muestran un crecimiento rápido y sostenido en ingresos, empleo y expansión. La metáfora puso el foco en la tracción real, en la ejecución consistente y en la capacidad de correr largas distancias sin agotarse."
+        },
+        {
+          "type": "image",
+          "id": "bestiario-global-1",
+          "src": "images/bestiario-global-1.jpg",
+          "alt": "Cuaderno de campo abierto con bocetos a tinta de una gacela y una cebra",
+          "aspect": "3:2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las Cebras emergieron como respuesta ética a un discurso dominado por unicornios. Propusieron una narrativa distinta: empresas que buscan rentabilidad e impacto social al mismo tiempo. No negaron la lógica del mercado, pero cuestionaron la idea de crecer a cualquier costo. Las cebras ordenaron una conversación necesaria sobre propósito, sostenibilidad y responsabilidad."
+        },
+        {
+          "type": "paragraph",
+          "text": "En distintos contextos también aparecieron Camellos y otras metáforas regionales, diseñadas para describir negocios resistentes, capaces de sobrevivir largos períodos con pocos recursos, adaptándose a entornos hostiles. Cada una de estas figuras respondió a una realidad concreta y cumplió una función valiosa."
+        },
+        {
+          "type": "quote",
+          "text": "El bestiario global, entonces, no es un error. Es una caja de herramientas."
+        },
+        {
+          "type": "heading",
+          "text": "El punto ciego"
+        },
+        {
+          "type": "paragraph",
+          "text": "El problema surge cuando esas herramientas se usan sin preguntar dónde, cuándo y para qué. Estas figuras fueron diseñadas para ecosistemas con ciertas condiciones de base: mercados profundos, acceso temprano a capital, marcos regulatorios previsibles, redes de apoyo consolidadas y una cultura que tolera el fracaso como parte del proceso. En esos contextos, las metáforas funcionan porque describen trayectorias posibles y frecuentes."
+        },
+        {
+          "type": "paragraph",
+          "text": "En América Latina, muchas de esas condiciones no están dadas de manera homogénea. Aquí, la escasez no es una fase inicial: es una constante. La informalidad convive con la innovación. El capital llega tarde o con condiciones que no siempre comprenden el proceso. Aprender de esos modelos está bien; el error es aplicarlos fuera de tiempo y lugar, como si el mapa fuera el territorio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Así, proyectos que no escalan rápido son descartados antes de aprender. Trayectorias que priorizan supervivencia y adaptación son leídas como falta de ambición. Iniciativas valiosas quedan fuera aunque funcionen, simplemente porque no encajan en la figura que se espera ver."
+        },
+        {
+          "type": "image",
+          "id": "bestiario-global-2",
+          "src": "images/bestiario-global-2.jpg",
+          "alt": "El borde de un mapa antiguo desplegado: el papel termina, pero la mesa de madera sigue",
+          "aspect": "3:2"
+        },
+        {
+          "type": "quote",
+          "text": "Esto no invalida al bestiario global. Lo que revela es su frontera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Estas metáforas siguen siendo útiles, pero son incompletas para explicar lo que ocurre en el ecosistema emprendedor latinoamericano. Describen ciertos finales posibles, pero dicen poco sobre los comienzos reales. Hablan del resultado, pero no siempre del recorrido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entender sus límites es un acto de madurez. Porque solo cuando reconocemos que una figura no alcanza, aparece la necesidad —y la oportunidad— de nombrar otras."
+        },
+        {
+          "type": "quote",
+          "text": "Nombrarlas complementa el bestiario existente y, sobre todo, evita confundir el mapa con el camino."
+        }
+      ]
+    },
+    {
+      "id": "promesa-aprendizaje",
+      "title": "Cuando la promesa ocupa el lugar del aprendizaje",
+      "kicker": "Capítulo 2",
+      "hero": {
+        "src": "images/promesa-aprendizaje-hero.jpg",
+        "alt": "Un velero pequeño navegando de noche entre la niebla hacia una luz lejana",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "En todo ecosistema emprendedor existe un momento inicial donde casi todo es promesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ideas que todavía no fueron probadas. Tecnologías que recién empiezan a mostrar su potencial. Fundadores que hablan más desde la intuición que desde la evidencia. En esa etapa, la promesa no solo es inevitable: es necesaria."
+        },
+        {
+          "type": "quote",
+          "text": "Prometer es parte del juego. El problema aparece cuando la promesa ocupa el lugar del aprendizaje."
+        },
+        {
+          "type": "heading",
+          "text": "La Sirena de la Innovación"
+        },
+        {
+          "type": "paragraph",
+          "text": "En la mitología, las sirenas no atacaban a los marineros. Cantaban. Su canto no era violento ni engañoso en apariencia. Era seductor. Ofrecía conocimiento, belleza, sentido. El peligro estaba en dejar de navegar."
+        },
+        {
+          "type": "paragraph",
+          "text": "En el mundo del emprendimiento, la Sirena de la Innovación cumple un rol similar. Es el proyecto —o el discurso— que logra atraer miradas, capital y titulares antes de haber construido evidencia suficiente. No siempre hay mala intención. A veces hay convicción genuina. Otras, una lectura equivocada del propio avance."
+        },
+        {
+          "type": "image",
+          "id": "promesa-aprendizaje-1",
+          "src": "images/promesa-aprendizaje-1.jpg",
+          "alt": "Una pequeña sirena tallada en madera y conchas sobre un mapa náutico antiguo",
+          "aspect": "3:2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un caso paradigmático fue Theranos, la empresa fundada por Elizabeth Holmes, que prometía revolucionar los análisis de sangre con una tecnología capaz de obtener múltiples diagnósticos a partir de una sola gota. El relato era poderoso, el timing perfecto y el impacto potencial inmenso. Durante años, el canto fue más fuerte que las preguntas. Inversionistas, medios y referentes del ecosistema eligieron creer antes que verificar. Cuando la evidencia finalmente apareció, ya era tarde."
+        },
+        {
+          "type": "quote",
+          "text": "Theranos no fue un accidente aislado. Fue un síntoma."
+        },
+        {
+          "type": "heading",
+          "text": "Cada ciclo tecnológico tiene su melodía"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cada ciclo tecnológico trae consigo su propia melodía. A fines de los años noventa, la burbuja de las .com convirtió presentaciones en empresas y visitas a páginas web en valuaciones millonarias. Muchas ideas no eran malas; simplemente estaban sostenidas más por expectativa que por aprendizaje real."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hoy, la inteligencia artificial atraviesa un momento similar. La tecnología es real, poderosa y transformadora. Pero también permite algo nuevo: mejorar de manera radical el discurso sin que necesariamente exista un proceso sólido detrás. Demos espectaculares, narrativas pulidas y proyecciones optimistas pueden construirse con una velocidad nunca antes vista."
+        },
+        {
+          "type": "paragraph",
+          "text": "En este contexto, el FOMO —el miedo a quedarse afuera— se convierte en un enemigo silencioso del inversionista. El temor a perder “la próxima gran oportunidad” puede llevar a escuchar el canto con demasiada atención y a navegar con menos criterio."
+        },
+        {
+          "type": "image",
+          "id": "promesa-aprendizaje-2",
+          "src": "images/promesa-aprendizaje-2.jpg",
+          "alt": "Un telescopio de latón sobre la cubierta de un velero apuntando hacia el horizonte en calma",
+          "aspect": "3:2"
+        },
+        {
+          "type": "heading",
+          "text": "Señales para reconocer a una Sirena"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reconocer a una Sirena no implica demonizarla. Existen señales tempranas que invitan a la prudencia: promesas que crecen más rápido que el aprendizaje, relatos que se refinan mientras el producto sigue igual, métricas de vanidad que reemplazan conversaciones incómodas sobre lo que aún no funciona. La Sirena no miente necesariamente; muchas veces se adelanta."
+        },
+        {
+          "type": "paragraph",
+          "text": "El ecosistema suele premiar el canto antes que el proceso porque el relato es más fácil de consumir que la evidencia. La promesa se comunica en minutos. El aprendizaje requiere tiempo, fricción y silencio. Y en un entorno ansioso por resultados rápidos, la paciencia no siempre cotiza bien."
+        },
+        {
+          "type": "paragraph",
+          "text": "Este capítulo propone algo difícil: seguir escuchando promesas sin dejar de navegar."
+        },
+        {
+          "type": "quote",
+          "text": "Porque cuando el canto reemplaza al aprendizaje, el riesgo no es solo perder capital. Es perder criterio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Y sin criterio, ninguna innovación —por brillante que parezca— logra sostenerse en el tiempo."
+        }
+      ]
+    },
+    {
+      "id": "valor-invisible",
+      "title": "El valor que el sistema no sabe leer",
+      "kicker": "Capítulo 3",
+      "hero": {
+        "src": "images/valor-invisible-hero.jpg",
+        "alt": "Un cisne blanco emergiendo de la neblina en un lago al amanecer, lejos de la orilla",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "No todo lo que importa llega haciendo ruido."
+        },
+        {
+          "type": "paragraph",
+          "text": "En un ecosistema acostumbrado a escuchar cantos seductores, existe otro fenómeno, más silencioso y persistente: proyectos que avanzan sin titulares, sin rondas espectaculares y sin validación temprana. Tienen valor; el sistema aún no sabe cómo leerlos. A esa figura la llamo el Cisne Emergente."
+        },
+        {
+          "type": "heading",
+          "text": "El Cisne Emergente"
+        },
+        {
+          "type": "paragraph",
+          "text": "La historia del Cisne suele comenzar con una subestimación temprana. No encaja en los moldes conocidos, no responde con fluidez a las preguntas estándar y no promete resultados en los tiempos esperados. Desde la mirada evaluadora tradicional, algo no termina de cerrar. Y cuando algo no cierra rápido, suele descartarse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Estos proyectos no mueren por falta de mérito. Mueren —o se estancan— por sesgos de evaluación. El sistema privilegia lo familiar, lo comparable, lo que se parece a casos de éxito anteriores. Lo distinto incomoda. Lo que no puede clasificarse fácilmente queda fuera."
+        },
+        {
+          "type": "image",
+          "id": "valor-invisible-1",
+          "src": "images/valor-invisible-1.jpg",
+          "alt": "Un cisne blanco nadando de perfil en un lago tranquilo, con reflejos suaves en el agua",
+          "aspect": "3:2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Muchos Cisnes crecen lejos del foco mediático. Avanzan resolviendo problemas concretos, mejorando producto, escuchando usuarios. No optimizan el pitch; optimizan el aprendizaje. Mientras otros afinan su relato, ellos afinan su propuesta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un ejemplo ilustrativo es Canva. Hoy es una plataforma global de diseño, utilizada por millones de personas y valorada en miles de millones de dólares. Pero durante años, Canva no fue tomada en serio por buena parte del ecosistema. ¿Diseño simplificado para no diseñadores? ¿Desde Australia? ¿Sin la épica tecnológica que se esperaba en Silicon Valley?"
+        },
+        {
+          "type": "quote",
+          "text": "Canva no irrumpió. Emergió."
+        },
+        {
+          "type": "paragraph",
+          "text": "Creció de manera progresiva, enfocada en experiencia de usuario, distribución inteligente y una comprensión profunda de un problema subestimado: hacer accesible el diseño visual. Durante mucho tiempo, su valor fue evidente para quienes la usaban, pero no para quienes evaluaban desde lejos. Ese desfase es central para entender al Cisne."
+        },
+        {
+          "type": "heading",
+          "text": "El dilema del innovador en LATAM"
+        },
+        {
+          "type": "paragraph",
+          "text": "En América Latina, este fenómeno se intensifica. El dilema del innovador enfrenta a lo nuevo con lo establecido y, además, a lo contextual con lo importado. Los filtros de evaluación suelen estar calibrados para otras realidades, otros mercados, otros ritmos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Así, proyectos que priorizan supervivencia, adaptación y aprendizaje profundo son leídos como pequeños. Iniciativas que avanzan sin capital abundante son percibidas como limitadas. La falta de visibilidad se confunde con falta de potencial."
+        },
+        {
+          "type": "quote",
+          "text": "Muchos proyectos latinoamericanos no fracasan. Simplemente no son comprendidos a tiempo."
+        },
+        {
+          "type": "image",
+          "id": "valor-invisible-2",
+          "src": "images/valor-invisible-2.jpg",
+          "alt": "Una lupa de latón sobre un mapa de América Latina, enfocando una zona pequeña",
+          "aspect": "3:2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando el contexto finalmente cambia —cuando la tecnología madura, el mercado se educa o la necesidad se vuelve evidente— esos proyectos ya están listos, y lo están porque aprendieron mientras tanto."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Cisne no pide privilegios. No reclama excepciones ni indulgencia. Pide algo más exigente: mejores lentes. Una mirada capaz de distinguir valor antes del aplauso, proceso antes del relato y aprendizaje antes de la escala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reconocer a los Cisnes es una cuestión de inteligencia sistémica."
+        },
+        {
+          "type": "quote",
+          "text": "Porque cada Cisne descartado a tiempo no es solo un proyecto perdido. Es una oportunidad que el ecosistema decidió no aprender a leer."
+        }
+      ]
+    },
+    {
+      "id": "supervivencia",
+      "title": "La lógica real de supervivencia",
+      "kicker": "Capítulo 4",
+      "hero": {
+        "src": "images/supervivencia-hero.jpg",
+        "alt": "Un colibrí en vuelo estacionario frente a una flor roja en un bosque tropical con neblina",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "En América Latina, emprender rara vez comienza con abundancia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Comienza con escasez. De capital, de tiempo, de certezas, de red. Es una condición estructural, que no se supera con el tiempo. Aquí, la falta de recursos no es el problema a resolver más adelante; es el entorno desde el cual se aprende a operar desde el primer día."
+        },
+        {
+          "type": "paragraph",
+          "text": "Durante años, esa realidad fue leída como una desventaja. Como algo que había que superar lo antes posible para recién entonces “emprender en serio”. El Modelo Colibrí propone otra mirada: entender la escasez como el contexto que moldea una lógica distinta de acción."
+        },
+        {
+          "type": "heading",
+          "text": "El Colibrí Adaptativo"
+        },
+        {
+          "type": "paragraph",
+          "text": "Existe una fábula conocida en nuestra región. Mientras un incendio arrasa el bosque, los animales huyen desesperados. Un colibrí, en cambio, vuela una y otra vez hasta el río, recoge una gota de agua en su pico y la deja caer sobre el fuego. Al verlo, los otros animales se burlan:"
+        },
+        {
+          "type": "quote",
+          "text": "—¿Crees que con eso vas a apagar el incendio? El colibrí responde: —No. Pero estoy haciendo mi parte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esta fábula suele leerse como una historia de buena voluntad. Aquí nos interesa otra cosa: su lógica operativa."
+        },
+        {
+          "type": "image",
+          "id": "supervivencia-1",
+          "src": "images/supervivencia-1.jpg",
+          "alt": "Un colibrí en vuelo estacionario recogiendo una gota de agua de una hoja, en primer plano",
+          "aspect": "3:2"
+        },
+        {
+          "type": "paragraph",
+          "text": "El colibrí no actúa por épica ni por ilusión de control. Actúa porque es la única acción posible desde su escala. Su fuerza está en la repetición, la precisión y la constancia. Eso es lo que define al Colibrí Adaptativo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emprender desde la escasez obliga a operar con microacciones, una estrategia deliberada. Pequeños movimientos continuos que, acumulados en el tiempo, generan aprendizaje real. El Colibrí no avanza a saltos; avanza por persistencia. Adaptarse, en este contexto, es sofisticación contextual. Implica leer el entorno, ajustar decisiones, retroceder cuando es necesario y sostenerse en el aire cuando avanzar sería un error. El vuelo estacionario del colibrí es tan importante como su avance."
+        },
+        {
+          "type": "paragraph",
+          "text": "El error aparece cuando estas trayectorias se miden con métricas ajenas. Evaluar a un Colibrí con criterios de Unicornio es exigirle velocidad cuando necesita precisión, escala cuando todavía construye base, promesas cuando está acumulando evidencia. El Colibrí puede crecer, pero su crecimiento responde a otra lógica."
+        },
+        {
+          "type": "paragraph",
+          "text": "En LATAM, muchos proyectos sobreviven antes de escalar. Aprenden antes de prometer. Construyen red antes de levantar capital. Desde afuera, ese recorrido puede parecer lento. Desde adentro, es lo único viable."
+        },
+        {
+          "type": "quote",
+          "text": "Este capítulo enseña a mirar cómo se emprende realmente en América Latina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Porque cuando entendemos la lógica del Colibrí, dejamos de confundir fragilidad con debilidad y empezamos a reconocer una forma distinta —y profundamente eficaz— de construir valor en contextos complejos."
+        }
+      ]
+    },
+    {
+      "id": "capital-viaje",
+      "title": "Capital que entiende el viaje",
+      "kicker": "Capítulo 5",
+      "hero": {
+        "src": "images/capital-viaje-hero.jpg",
+        "alt": "Un delfín saltando sobre el mar abierto al amanecer",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Durante mucho tiempo, el capital ocupó un lugar incómodo en la conversación emprendedora latinoamericana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para algunos, aparece como salvación. Para otros, como amenaza. En ambos casos, suele llegar cargado de expectativas que no siempre dialogan con la etapa real del proyecto."
+        },
+        {
+          "type": "quote",
+          "text": "El capital merece otra pregunta: cuándo y cómo aparece."
+        },
+        {
+          "type": "heading",
+          "text": "El Delfín Acompañante"
+        },
+        {
+          "type": "paragraph",
+          "text": "En el imaginario del ecosistema, el Tiburón es una figura conocida. Entra cuando ya hay tracción, exige velocidad, captura participación y empuja hacia la escala. No es un villano. Cumple una función clara cuando el proyecto ya sabe nadar en aguas profundas."
+        },
+        {
+          "type": "paragraph",
+          "text": "El error aparece cuando esa lógica se adelanta. Cuando se exige retorno antes de aprendizaje. Cuando se acelera antes de entender. Cuando se mide con métricas de llegada a proyectos que aún están partiendo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ahí emerge otra figura necesaria: el Delfín Acompañante. El Delfín entra temprano, cuando todavía no hay nada que morder. Acompaña ideas frágiles, problemas mal definidos y equipos que aún están aprendiendo a leerse a sí mismos. Su propósito es hacer posible el proceso."
+        },
+        {
+          "type": "image",
+          "id": "capital-viaje-1",
+          "src": "images/capital-viaje-1.jpg",
+          "alt": "Dos delfines nadando junto a una pequeña lancha de madera en aguas tranquilas",
+          "aspect": "3:2"
+        },
+        {
+          "type": "quote",
+          "text": "Acompañar no es dirigir."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Delfín no impone roadmaps, no acelera por ansiedad, no confunde mentoría con control. Camina al lado. Observa. Hace preguntas incómodas cuando hace falta y guarda silencio cuando el proceso aún no está listo para ser explicado."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entiende algo que el capital tradicional suele resistir: en etapas tempranas, abandonar una idea es un resultado posible y valioso. Cerrar una iniciativa no siempre es fracasar. A veces es aprender con claridad. Pivotar es maduración. El Delfín acompaña incluso cuando el camino se corta, porque sabe que el activo principal es el criterio que se construye en el intento."
+        },
+        {
+          "type": "heading",
+          "text": "El aprendizaje como activo"
+        },
+        {
+          "type": "paragraph",
+          "text": "En contextos de escasez, perder aprendizaje es un lujo que el ecosistema no puede permitirse. Cada proyecto que se cierra sin haber sido comprendido, cada equipo que se disuelve sin haber capitalizado su experiencia, representa una pérdida colectiva. El Delfín Acompañante aparece para preservar ese valor invisible."
+        },
+        {
+          "type": "quote",
+          "text": "No romantiza el fracaso. Lo ordena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Protege el proceso, documenta aprendizajes, fortalece al emprendedor para el próximo intento. Porque un fundador que aprendió bien vale más que una idea que sobrevivió mal."
+        },
+        {
+          "type": "heading",
+          "text": "Las expresiones del Mecenas Colibrí"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dentro del Movimiento Colibrí LATAM, el Delfín se manifiesta a través de distintas formas de mecenazgo consciente, todas ellas adaptadas al momento del viaje."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "El Mecenas Fundacional acompaña al sistema en su conjunto. Apuesta por la infraestructura que permitirá que muchos vuelos sean posibles. Sostiene el bosque antes de que aparezcan las aves.",
+            "El Aliado Semilla acompaña el primer movimiento. Aporta recursos, tiempo o red cuando aún no hay claridad total, sabiendo que la continuidad no está garantizada.",
+            "El Mentor Colibrí acompaña el criterio. Ayuda a leer el proceso, a tomar decisiones y a no confundir movimiento con progreso. Su aporte principal es cognitivo.",
+            "El Mecenas del Cambio aparece cuando ya hay evidencia y dirección. Acompaña la transición hacia una nueva etapa, respetando lo aprendido y sin romper la lógica que permitió llegar hasta ahí."
+          ]
+        },
+        {
+          "type": "quote",
+          "text": "Todos son Delfines. Todos entienden que acompañar no es capturar."
+        },
+        {
+          "type": "heading",
+          "text": "Ordenar el momento"
+        },
+        {
+          "type": "quote",
+          "text": "El Delfín no elimina al Tiburón. Lo ordena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cada figura tiene su tiempo. Los Tiburones tienen su lugar; el problema es que aparezcan demasiado pronto. Cuando el capital exige escala antes de que el proyecto aprenda a nadar, rompe alas en lugar de potenciarlas."
+        },
+        {
+          "type": "image",
+          "id": "capital-viaje-2",
+          "src": "images/capital-viaje-2.jpg",
+          "alt": "Vista aérea del mar: una franja de aguas claras y poco profundas junto a una zona de agua azul oscuro y profunda",
+          "aspect": "3:2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un ecosistema sano absorbe los riesgos en el orden correcto."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Delfín Acompañante propone una ética simple y exigente: antes de exigir resultados, hay que acompañar procesos. Antes de capturar valor, hay que ayudar a crearlo. Y antes de invertir en ideas, hay que invertir en personas."
+        },
+        {
+          "type": "quote",
+          "text": "En América Latina, donde emprender es un viaje largo y lleno de desvíos, esa ética no es idealismo. Es supervivencia inteligente."
+        }
+      ]
+    },
+    {
+      "id": "sistema",
+      "title": "Un sistema, no una competencia",
+      "kicker": "Capítulo 6",
+      "hero": {
+        "src": "images/sistema-hero.jpg",
+        "alt": "Un auditorio vacío con atriles de orquesta y partituras iluminados por luz cálida",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Durante años, el ecosistema emprendedor fue leído como una suma de actores aislados."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emprendedores por un lado. Inversionistas por otro. Mentores, aceleradoras, instituciones, cada uno cumpliendo su rol como si el simple hecho de coexistir garantizara un buen resultado. La experiencia muestra lo contrario."
+        },
+        {
+          "type": "quote",
+          "text": "Actores sobran. Lo que falta es orquestación."
+        },
+        {
+          "type": "heading",
+          "text": "Promesa, mirada, acción y acompañamiento"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las cuatro figuras que componen el Modelo Colibrí no compiten entre sí. Cumplen funciones distintas dentro de un mismo sistema."
+        },
+        {
+          "type": "pillars",
+          "items": [
+            {
+              "title": "La promesa",
+              "text": "La Sirena representa la promesa. Su canto atrae atención, despierta interés y moviliza recursos. Sin promesa, no hay curiosidad. Sin curiosidad, no hay conversación."
+            },
+            {
+              "title": "La mirada",
+              "text": "El Cisne encarna la mirada. Pone en evidencia los sesgos del sistema y revela cuánto valor queda fuera por no saber reconocerlo a tiempo. Nos recuerda que no todo lo valioso sabe brillar en el momento correcto."
+            },
+            {
+              "title": "La acción",
+              "text": "El Colibrí representa la acción. Su acción es cotidiana, persistente y adaptativa. Es la lógica que convierte la escasez en aprendizaje y el movimiento pequeño en avance real."
+            },
+            {
+              "title": "El acompañamiento",
+              "text": "El Delfín aporta el acompañamiento. No dirige ni acelera. Sostiene el proceso para que el aprendizaje no se pierda y para que el viaje sea posible sin romper al viajero."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "id": "sistema-1",
+          "src": "images/sistema-1.jpg",
+          "alt": "Vista aérea de cuatro ríos que se unen en un solo cauce dentro de la selva",
+          "aspect": "3:2"
+        },
+        {
+          "type": "quote",
+          "text": "Cuando estas cuatro funciones dialogan, el sistema aprende."
+        },
+        {
+          "type": "heading",
+          "text": "Cuando una figura domina al resto"
+        },
+        {
+          "type": "paragraph",
+          "text": "Los problemas comienzan cuando una figura ocupa un lugar que no le corresponde."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Cuando la Sirena domina, el ecosistema se vuelve superficial. Se premia el relato por encima del proceso, la visibilidad por encima del aprendizaje. Las promesas se multiplican, pero el valor real escasea.",
+            "Cuando el Cisne no es visto, el sistema se vuelve miope. Se repiten siempre los mismos patrones, se financian ideas parecidas y se descartan trayectorias que no encajan. La innovación se vuelve conservadora.",
+            "Cuando se ignora al Colibrí, se rompe la lógica de supervivencia. Se exige velocidad donde hace falta precisión. Se confunde lentitud con fracaso y adaptación con debilidad.",
+            "Y cuando no hay Delfines, el aprendizaje temprano se desperdicia. El capital entra tarde o entra mal. Se rompen procesos que todavía no estaban listos para escalar."
+          ]
+        },
+        {
+          "type": "quote",
+          "text": "Lo que descompone al sistema es el desorden temporal."
+        },
+        {
+          "type": "heading",
+          "text": "El tiempo como variable crítica"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cada figura tiene su momento. La promesa es necesaria al inicio, pero debe dar paso a la evidencia. La mirada crítica es indispensable, pero no puede convertirse en cinismo paralizante. La acción sostenida necesita tiempo. El acompañamiento temprano requiere paciencia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando el ecosistema acelera artificialmente estos tiempos, genera trayectorias mal acompañadas. Proyectos empujados a escalar antes de aprender. Equipos exigidos a rendir antes de comprender su propio problema. Capital frustrado por expectativas mal calibradas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las trayectorias bien acompañadas, en cambio, muestran otra dinámica. La promesa abre puertas, la mirada ajusta, la acción consolida y el acompañamiento protege. No todo llega a destino, pero casi todo deja aprendizaje."
+        },
+        {
+          "type": "heading",
+          "text": "Orquestar en lugar de competir"
+        },
+        {
+          "type": "paragraph",
+          "text": "En un ecosistema sano, cada actor entra en el momento adecuado, sin que todos tengan que correr más rápido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Orquestar no significa controlar. Significa coordinar tiempos, roles y expectativas. Entender que no todo proyecto necesita lo mismo al mismo tiempo. Que no toda iniciativa debe responder al mismo molde."
+        },
+        {
+          "type": "image",
+          "id": "sistema-2",
+          "src": "images/sistema-2.jpg",
+          "alt": "La mano de un director de orquesta con una batuta frente a atriles iluminados, con los músicos desenfocados",
+          "aspect": "3:2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando aprendemos a leer el sistema como una orquesta y no como una carrera, cambia la conversación. El éxito deja de ser un punto de llegada único y se convierte en una trayectoria bien sostenida."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Modelo Colibrí no suma actores ni crea jerarquías: ordena el diálogo entre quienes ya están."
+        },
+        {
+          "type": "quote",
+          "text": "Porque cuando la promesa, la mirada, la acción y el acompañamiento se alinean en el tiempo correcto, el ecosistema deja de perder talento por desorden. Y empieza, por fin, a aprender de sí mismo."
+        }
+      ]
+    },
+    {
+      "id": "practica",
+      "title": "Del lenguaje a la práctica",
+      "kicker": "Capítulo 7",
+      "hero": {
+        "src": "images/practica-hero.jpg",
+        "alt": "Escritorio de campo con una libreta abierta, una lupa, una brújula y una lámpara encendida",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Hasta aquí, este libro habló de metáforas. Pero no para quedarse en ellas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las figuras del Modelo Colibrí existen para usarse. Su verdadero valor aparece cuando se convierten en un marco de lectura que ordena decisiones, conversaciones y expectativas dentro del ecosistema emprendedor. Este capítulo ofrece un cambio de mirada, sin método paso a paso."
+        },
+        {
+          "type": "heading",
+          "text": "El Modelo Colibrí como marco de lectura"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leer un proyecto desde el Modelo Colibrí implica dejar de hacer una sola pregunta —¿va a escalar?— y empezar a hacer varias, más incómodas y más precisas."
+        },
+        {
+          "type": "list",
+          "style": "numbered",
+          "items": [
+            "¿Qué promesa está haciendo?",
+            "¿Qué evidencia la sostiene?",
+            "¿Qué tipo de acción está desplegando?",
+            "¿Qué acompañamiento necesita en este momento?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Desde ese marco, las cuatro figuras se convierten en herramientas prácticas."
+        },
+        {
+          "type": "image",
+          "id": "practica-1",
+          "src": "images/practica-1.jpg",
+          "alt": "Una brújula de latón sobre una libreta abierta con las páginas en blanco",
+          "aspect": "3:2"
+        },
+        {
+          "type": "heading",
+          "text": "Evaluar proyectos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Al evaluar un proyecto, el Modelo Colibrí invita a distinguir entre canto y aprendizaje. No toda promesa es una Sirena, pero toda promesa necesita contraste. El Cisne aparece cuando el valor no es evidente a primera vista. El Colibrí se manifiesta en la constancia de las microacciones. Y el Delfín recuerda que el contexto importa tanto como la idea. Evaluar deja de ser clasificar rápidamente y pasa a ser leer trayectorias."
+        },
+        {
+          "type": "heading",
+          "text": "Diseñar programas de apoyo"
+        },
+        {
+          "type": "paragraph",
+          "text": "Muchos programas fracasan por aplicar la misma receta a realidades distintas. El Modelo Colibrí permite diseñar acompañamientos que respetan el momento del proyecto."
+        },
+        {
+          "type": "paragraph",
+          "text": "No todos necesitan acelerar. Algunos necesitan comprender mejor su problema. Otros, consolidar aprendizaje. Otros, simplemente tiempo protegido."
+        },
+        {
+          "type": "quote",
+          "text": "El marco no estandariza. Orquesta."
+        },
+        {
+          "type": "heading",
+          "text": "Acompañar emprendedores"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para mentores y acompañantes, el Modelo Colibrí ofrece una brújula ética. Ayuda a no imponer caminos ajenos, a no confundir movimiento con progreso y a aceptar que cerrar una idea puede ser parte del viaje. Acompañar deja de ser empujar y se convierte en sostener."
+        },
+        {
+          "type": "image",
+          "id": "practica-2",
+          "src": "images/practica-2.jpg",
+          "alt": "Dos personas conversando de espaldas en un café de barrio, con dos tazas sobre la mesa",
+          "aspect": "3:2"
+        },
+        {
+          "type": "heading",
+          "text": "Invertir con criterio"
+        },
+        {
+          "type": "paragraph",
+          "text": "Desde la mirada inversora, este marco invita a calibrar expectativas. No todo proyecto está listo para Tiburones. Algunos necesitan Delfines. Otros todavía están afinando su vuelo. Invertir con criterio es entender el riesgo. Es saber cuándo exigir resultados y cuándo proteger procesos."
+        },
+        {
+          "type": "heading",
+          "text": "Una puerta hacia la práctica"
+        },
+        {
+          "type": "paragraph",
+          "text": "A partir de este marco de lectura, el Movimiento Colibrí LATAM propone una herramienta concreta: la Ruta de Vuelo Colibrí. Es una secuencia de momentos donde el aprendizaje se vuelve visible, sin camino único. Una forma de acompañar trayectorias sin forzarlas."
+        },
+        {
+          "type": "paragraph",
+          "text": "De esa Ruta emerge, de manera natural, la necesidad de evidencia. Hablo de evidencia acumulada. Acciones pequeñas, decisiones tomadas, aprendizajes registrados. Con el tiempo, esa evidencia construye reputación."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Índice Colibrí aparece como una manera de leer esa reputación. Mide consistencia, aprendizaje y coherencia entre lo que se dice y lo que se hace."
+        },
+        {
+          "type": "paragraph",
+          "text": "Este libro no desarrolla esas herramientas. Solo abre la puerta."
+        },
+        {
+          "type": "quote",
+          "text": "Porque antes de cruzarla, el lector necesita algo más importante que instrucciones: criterio. Y ese criterio comienza, siempre, por aprender a mirar mejor."
+        }
+      ]
+    },
+    {
+      "id": "ecosistema",
+      "title": "Hacia un ecosistema que aprende",
+      "kicker": "Capítulo 8",
+      "hero": {
+        "src": "images/ecosistema-hero.jpg",
+        "alt": "Un bosque de montaña al amanecer con luz atravesando la neblina y plantas jóvenes bajo los árboles",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Durante décadas hablamos de capital, de tecnología y de escala como si fueran los motores principales del emprendimiento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hoy, algo empieza a volverse evidente: el activo más escaso no es el dinero. Es el aprendizaje. Hablo del aprendizaje como la capacidad de un ecosistema para aprender de sí mismo, más allá de cursos o certificados. Para no repetir los mismos errores. Para no confundir ruido con valor. Para no quemar talento por desorden."
+        },
+        {
+          "type": "paragraph",
+          "text": "En el siglo XXI, la ventaja competitiva de un ecosistema está en cuánto aprende de cada intento, incluso —y sobre todo— de los que no llegan a destino."
+        },
+        {
+          "type": "heading",
+          "text": "Nombrar lo invisible"
+        },
+        {
+          "type": "paragraph",
+          "text": "Este libro nació de una convicción simple: muchas de las dinámicas más importantes del emprendimiento latinoamericano permanecen invisibles porque no tienen nombre."
+        },
+        {
+          "type": "quote",
+          "text": "Lo que no se nombra no se discute. Lo que no se discute no se mejora."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nombrar es hacer justicia. Es permitir que trayectorias silenciosas, aprendizajes acumulados y formas alternativas de construir valor sean vistas, comprendidas y acompañadas."
+        },
+        {
+          "type": "image",
+          "id": "ecosistema-1",
+          "src": "images/ecosistema-1.jpg",
+          "alt": "Un brote joven creciendo entre hojas secas en el suelo de un bosque, con luz suave",
+          "aspect": "3:2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las figuras del Modelo Colibrí no pretenden simplificar la realidad. Pretenden ordenarla lo suficiente como para que podamos conversar mejor sobre ella."
+        },
+        {
+          "type": "heading",
+          "text": "Nuevas preguntas"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si algo propone este bestiario es un cambio de preguntas."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "A los emprendedores, les invita a preguntarse qué están construyendo y qué están aprendiendo en el proceso.",
+            "A los evaluadores, les sugiere mirar más allá de la forma y preguntarse qué valor podría estar emergiendo sin saber aún cómo brillar.",
+            "A los mecenas y al capital, les plantea una incomodidad necesaria: en qué momento acompañan, qué procesos protegen y qué aprendizajes ayudan a preservar."
+          ]
+        },
+        {
+          "type": "quote",
+          "text": "Estas preguntas no prometen éxito. Dan algo más importante: criterio."
+        },
+        {
+          "type": "heading",
+          "text": "Una propuesta abierta"
+        },
+        {
+          "type": "paragraph",
+          "text": "El Movimiento Colibrí LATAM no se presenta como una respuesta definitiva ni como un nuevo dogma emprendedor. Es una propuesta abierta, evolutiva y colectiva. Un intento por construir un lenguaje común que nos permita leer mejor nuestras propias trayectorias, sin depender exclusivamente de marcos importados."
+        },
+        {
+          "type": "paragraph",
+          "text": "No busca reemplazar al ecosistema existente. Busca ayudarlo a aprender más rápido y con menos pérdidas humanas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si este libro logra algo, ojalá sea esto: que la próxima vez que un proyecto no encaje, no lo descartemos de inmediato. Que antes de exigir resultados, preguntemos por el proceso. Que antes de celebrar promesas, busquemos evidencia."
+        },
+        {
+          "type": "quote",
+          "text": "Un ecosistema que aprende no es el que acierta siempre. Es el que no desperdicia lo aprendido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Y aprender, en última instancia, comienza con un gesto tan simple como poderoso: mirar mejor."
+        }
+      ]
+    },
+    {
+      "id": "epilogo",
+      "title": "Leer con otros ojos",
+      "kicker": "Epílogo",
+      "numbered": false,
+      "hero": {
+        "src": "images/epilogo-hero.jpg",
+        "alt": "Una persona de espaldas entra en una sala oscura con una linterna encendida",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Imagina a alguien que entra a una sala oscura con un mapa perfecto… de otro lugar."
+        },
+        {
+          "type": "paragraph",
+          "text": "El mapa es preciso, elegante, validado por expertos. Pero las paredes no coinciden, las puertas no están donde prometía el trazo y el suelo cruje distinto bajo los pies. La reacción habitual es insistir: ajustar el paso, apretar el ritmo, culpar al caminante. Rara vez se cuestiona el mapa."
+        },
+        {
+          "type": "heading",
+          "text": "Detenerse y levantar la mirada"
+        },
+        {
+          "type": "paragraph",
+          "text": "Este libro fue una invitación a detenerse un instante y levantar la mirada. A observar lo que realmente ocurre cuando se emprende en América Latina. A reconocer patrones que estaban ahí, pero no tenían nombre. A aceptar que muchas trayectorias no fallan: son mal leídas."
+        },
+        {
+          "type": "image",
+          "id": "epilogo-1",
+          "src": "images/epilogo-1.jpg",
+          "alt": "Una linterna encendida sobre un mapa antiguo en una habitación en penumbra",
+          "aspect": "3:2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambiar la mirada no significa renunciar a la ambición. Significa elegir mejor cuándo acelerar, cómo acompañar y qué vale la pena sostener. Significa entender que el aprendizaje es el camino mismo."
+        },
+        {
+          "type": "heading",
+          "text": "Acompañar y sostener"
+        },
+        {
+          "type": "paragraph",
+          "text": "Acompañar, en este contexto, no es empujar ni dirigir. Es crear condiciones para que otros puedan aprender sin romperse. Es aceptar que cerrar una puerta a tiempo puede abrir una ventana más adelante. Es cuidar a las personas incluso cuando las ideas cambian de forma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sostener trayectorias implica algo más difícil que celebrar éxitos: preservar aprendizajes. Darles lugar, nombre y continuidad. Porque un ecosistema que cuida lo aprendido se vuelve más sabio, incluso cuando se equivoca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tal vez la metáfora final sea simple. No se trata de correr más rápido ni de llegar primero. Se trata de mirar mejor mientras avanzamos. De ajustar el paso al terreno real. De escuchar el entorno sin dejarnos hipnotizar por el ruido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si después de estas páginas decides cambiar de modelo, estará bien. Pero si decides algo más sutil —cambiar de mirada—, este libro ya cumplió su propósito."
+        },
+        {
+          "type": "quote",
+          "text": "Leer con otros ojos no garantiza respuestas inmediatas. Garantiza algo más valioso: la posibilidad de hacer mejores preguntas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Y en tiempos complejos, aprender a preguntar bien es, quizás, la forma más honesta de avanzar."
+        },
+        {
+          "type": "button",
+          "text": "Descubre tu mapa de figuras",
+          "url": "#mapa-figuras",
+          "style": "primary",
+          "note": "Un diagnóstico breve de cuatro figuras, en unos tres minutos."
+        }
+      ]
+    },
+    {
+      "id": "mapa-figuras",
+      "title": "Tu mapa del Bestiario",
+      "kicker": "Diagnóstico",
+      "numbered": false,
+      "hero": {
+        "src": "images/mapa-figuras-hero.jpg",
+        "alt": "Una pluma, una brújula, una lupa y una lámpara sobre un escritorio de madera",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Hasta aquí te conté cómo veo el ecosistema. Ahora te toca mirarte a ti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Este mapa usa las cuatro figuras como lentes y te dice dónde ya tienes tierra firme y dónde conviene poner atención primero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Responde con lo que pasa hoy, no con lo que te gustaría que pasara. Confieso que ni yo saldría perfecto en todas."
+        },
+        {
+          "type": "image",
+          "id": "mapa-figuras-1",
+          "src": "images/mapa-figuras-1.jpg",
+          "alt": "Un cuaderno abierto con una pluma fuente sobre una página en blanco, junto a una lámpara",
+          "aspect": "3:2"
+        },
+        {
+          "type": "diagnostic",
+          "id": "mapa-figuras",
+          "eyebrow": "Diagnóstico · Versión breve",
+          "title": "El mapa de las cuatro figuras",
+          "subtitle": "Dónde está tu proyecto hoy, mirado con la Sirena, el Cisne, el Colibrí y el Delfín.",
+          "intro": "Esta es una versión breve del mapa: dieciséis afirmaciones que respondes en unos tres minutos. Elige qué tan de acuerdo estás con cada una. Aquí no hay respuestas correctas, solo un punto de partida.",
+          "scaleLabels": [
+            "Muy en desacuerdo",
+            "En desacuerdo",
+            "Neutral",
+            "De acuerdo",
+            "Muy de acuerdo"
+          ],
+          "dimensions": [
+            {
+              "id": "promesa",
+              "label": "Promesa y evidencia · Sirena",
+              "question": "Piensa en lo que dices hoy de tu proyecto y en lo que ya puedes demostrar.",
+              "items": [
+                "Lo que prometo sobre mi proyecto está respaldado por evidencia que puedo mostrar.",
+                "Cuando mi relato mejora, mi producto o servicio mejora también.",
+                "Converso abiertamente con mi equipo o mis usuarios sobre lo que aún no funciona.",
+                "Mis métricas reflejan aprendizaje real: pruebas, ajustes y resultados."
+              ],
+              "insight": "Aquí tu relato corre un poco más rápido que tu evidencia. Le pasa a casi todos al arrancar, y por eso conviene verlo a tiempo.",
+              "advice": "Esta semana elige una promesa que repites hoy y consigue un dato, una prueba o una conversación que la respalde. Si no aparece, ajusta la promesa."
+            },
+            {
+              "id": "valor",
+              "label": "Valor visible · Cisne",
+              "question": "Piensa en cómo se ve tu proyecto desde afuera y en cómo lo evalúan los demás.",
+              "items": [
+                "Puedo explicar en pocas frases qué valor genera mi proyecto, aunque todavía no tenga titulares.",
+                "Hay personas que usan lo que hago y reconocen su valor.",
+                "Cuando alguien me evalúa, le doy el contexto de mi proyecto antes de que lo juzgue.",
+                "Dedico más tiempo a mejorar mi propuesta que a pulir mi presentación."
+              ],
+              "insight": "Tu valor puede estar creciendo en silencio mientras el sistema aún no tiene lentes para leerlo. Eso se mejora mostrando evidencia.",
+              "advice": "Escribe en cinco líneas qué problema resuelves y para quién. Compártelo con dos personas ajenas al proyecto y anota qué entendieron."
+            },
+            {
+              "id": "accion",
+              "label": "Acción sostenida · Colibrí",
+              "question": "Piensa en tu ritmo de trabajo de las últimas semanas.",
+              "items": [
+                "Doy pasos pequeños cada semana, incluso cuando no veo resultados.",
+                "Ajusto mis decisiones cuando el entorno cambia.",
+                "Registro lo que aprendo de cada microacción.",
+                "Avanzo a mi propio ritmo, sin medirme con métricas pensadas para otros contextos."
+              ],
+              "insight": "Cuando la constancia se interrumpe, el aprendizaje se queda en el aire. El vuelo del Colibrí se apoya en hábitos pequeños y repetidos.",
+              "advice": "Define una microacción de menos de treinta minutos y hazla cinco días seguidos. Al terminar cada una, escribe una línea con lo que aprendiste."
+            },
+            {
+              "id": "acompanamiento",
+              "label": "Acompañamiento · Delfín",
+              "question": "Piensa en las personas que hoy caminan contigo.",
+              "items": [
+                "Tengo al menos una persona que me hace preguntas incómodas sobre mi proceso.",
+                "Comparto mis dudas y mis errores con alguien de confianza dentro del ecosistema.",
+                "Recibo red, mentoría o recursos justo cuando los necesito.",
+                "Cuando cierro o cambio una idea, dejo por escrito lo aprendido."
+              ],
+              "insight": "Sin compañía temprana, buena parte del aprendizaje se pierde. Nadie debería viajar solo cuando el camino apenas empieza.",
+              "advice": "Escríbele a alguien que admires o en quien confíes y pídele treinta minutos para contarle tu proceso. Llévale una pregunta incómoda."
+            }
+          ],
+          "profiles": [
+            {
+              "max": 2.5,
+              "emoji": "🧭",
+              "title": "Explorador",
+              "strength": "Sientes que algo no encaja y tienes ganas de leer tu camino con otros ojos.",
+              "risk": "Avanzar sin referentes y creer que el problema eres tú, cuando quizá es el lenguaje con el que te miden.",
+              "next": "Esta semana elige una sola figura y haz la acción sugerida para ella. Empezar por lo pequeño ya es empezar con criterio."
+            },
+            {
+              "max": 3.8,
+              "emoji": "🌊",
+              "title": "Navegante",
+              "strength": "Ya tienes parte del recorrido en marcha y varias figuras trabajando a tu favor.",
+              "risk": "Que una figura domine al resto: más relato que evidencia, o más acción que compañía.",
+              "next": "Revisa tus dos prioridades y pon una acción concreta en tu calendario antes del viernes."
+            },
+            {
+              "max": 5,
+              "emoji": "🐦",
+              "title": "Colibrí en vuelo",
+              "strength": "Tu proyecto muestra aprendizaje, constancia y acompañamiento en un equilibrio poco común.",
+              "risk": "Acomodarte y dejar de preguntar qué sigue. Incluso un vuelo estable necesita preguntas nuevas.",
+              "next": "Convierte lo que ya sabes en algo para otros: acompaña a un proyecto que apenas empieza."
+            }
+          ],
+          "priorities": {
+            "count": 2,
+            "order": "lowest",
+            "heading": "Por dónde empezar",
+            "eyebrow": "Prioridad",
+            "levelLabel": "Nivel"
+          },
+          "email": {
+            "heroImage": "images/portada-correo.jpg",
+            "ctaText": "Conoce el Movimiento Colibrí LATAM",
+            "ctaUrl": "https://coachjesusdiaz.com"
+          },
+          "closingLine": "El Bestiario no pretende decirte quién eres. Te ofrece lentes para mirar mejor.",
+          "gate": {
+            "heading": "Tu mapa está listo",
+            "bullets": [
+              "Tu perfil: Explorador, Navegante o Colibrí en vuelo",
+              "Tus dos prioridades, con una acción concreta para cada una",
+              "Una copia en tu correo para volver a ella cuando quieras"
+            ],
+            "namePlaceholder": "Tu nombre",
+            "emailPlaceholder": "Tu correo",
+            "buttonText": "Ver mi mapa",
+            "note": "Uso tu correo solo para enviarte este resultado."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sobre-el-autor",
+      "title": "Sobre el autor",
+      "kicker": "Sobre el autor",
+      "numbered": false,
+      "about": true,
+      "blocks": [
+        {
+          "type": "author",
+          "name": "Jesús Díaz (Coach JD)",
+          "role": "Autor del Bestiario y del Movimiento Colibrí LATAM",
+          "photo": "images/autor.jpg",
+          "photoAlt": "Retrato de Jesús Díaz sonriendo, con saco gris y camiseta negra con el logo del colibrí",
+          "bio": [
+            "Durante años caminé el ecosistema emprendedor latinoamericano con la sensación de que algo no encajaba. De esa sensación nacieron este Bestiario y el Movimiento Colibrí LATAM.",
+            "Soy autor de El Viaje del Héroe Emprendedor y creador de Circanvas®. Escribo y acompaño desde la convicción de que lo que no se nombra no se cuida."
+          ],
+          "links": [
+            {
+              "text": "Sitio web",
+              "url": "https://coachjesusdiaz.com"
+            }
+          ],
+          "button": {
+            "text": "Escríbeme",
+            "url": "mailto:hola@coachjesusdiaz.com"
+          }
+        }
+      ]
+    }
+  ]
+}

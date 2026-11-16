@@ -1,0 +1,128 @@
+<!-- Plantilla del correo de resultado - El Bestiario del Emprendimiento Latinoamericano. Variables {{...}} las rellena correo/enviar.php. -->
+<div style="margin:0;padding:0;background:#f1e8d3;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f1e8d3;">
+  <tr>
+    <td align="center" style="padding:24px 12px;">
+      <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%;max-width:600px;background:#fdf8ec;border-radius:12px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#2a1d12;">
+
+        <!-- IMAGEN DE CABECERA: meta.coverImage, o block.email.heroImage -->
+        <tr>
+          <td style="padding:0;">
+            <img src="{{image_hero}}" width="600" alt="" style="display:block;width:100%;max-width:600px;height:auto;border:0;" />
+          </td>
+        </tr>
+
+        <!-- TÍTULO -->
+        <tr>
+          <td style="padding:36px 40px 0;">
+            <p style="margin:0 0 10px;font-size:12px;letter-spacing:3px;text-transform:uppercase;color:#8a4b12;">TU MAPA PERSONAL</p>
+            <h1 style="margin:0 0 14px;font-size:28px;line-height:1.2;font-weight:700;color:#2a1d12;">Resultado de tu {{diagnostic_title}}</h1>
+            <p style="margin:0;font-size:14px;line-height:1.5;color:#66523d;">Generado a partir de tus respuestas en el Libro Web™ <strong style="color:#2a1d12;">"{{book_title}}"</strong></p>
+          </td>
+        </tr>
+
+        <!-- SALUDO -->
+        <tr>
+          <td style="padding:28px 40px 0;">
+            <h2 style="margin:0 0 14px;font-size:20px;line-height:1.3;color:#2a1d12;">Hola {{to_name}},</h2>
+            <p style="margin:0 0 12px;font-size:15px;line-height:1.6;color:#2a1d12;">Gracias por detenerte a mirar tu proyecto con las cuatro figuras del Bestiario. Sé que no es un ejercicio cómodo.</p>
+            <p style="margin:0;font-size:15px;line-height:1.6;color:#2a1d12;">Lo que ves abajo es un punto de partida. Confieso que yo mismo cambiaría varias respuestas según el día en que lo contestara.</p>
+          </td>
+        </tr>
+
+        <!-- RESUMEN: perfil general -->
+        <tr>
+          <td style="padding:28px 40px 0;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f6efdf;border-left:4px solid #8a4b12;">
+              <tr>
+                <td style="padding:20px 22px;">
+                  <p style="margin:0 0 8px;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#66523d;">Tu perfil</p>
+                  <p style="margin:0 0 12px;font-size:20px;line-height:1.3;font-weight:700;color:#2a1d12;">{{profile_title}}</p>
+                  <p style="margin:0 0 8px;font-size:15px;line-height:1.55;color:#2a1d12;"><strong style="color:#2a1d12;">Lo que ya tienes:</strong> {{profile_strength}}</p>
+                  <p style="margin:0 0 8px;font-size:15px;line-height:1.55;color:#2a1d12;"><strong style="color:#2a1d12;">El riesgo:</strong> {{profile_risk}}</p>
+                  <p style="margin:0;font-size:15px;line-height:1.55;color:#2a1d12;"><strong style="color:#2a1d12;">Tu siguiente paso:</strong> {{profile_next}}</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- INTRODUCCIÓN A LAS PRIORIDADES -->
+        <tr>
+          <td style="padding:28px 40px 0;">
+            <h2 style="margin:0 0 10px;font-size:17px;line-height:1.3;color:#2a1d12;">Por dónde empezar</h2>
+            <p style="margin:0;font-size:15px;line-height:1.6;color:#2a1d12;">Estas son las dos figuras que hoy piden más atención según tus respuestas. Las otras dos también importan. Empezar por estas suele rendir más.</p>
+          </td>
+        </tr>
+
+        <!-- PRIORIDAD 01 -->
+        <tr>
+          <td style="padding:26px 40px 0;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #dccfb3;">
+              <tr><td style="padding:22px 0 0;">
+                <p style="margin:0 0 8px;font-size:12px;letter-spacing:3px;text-transform:uppercase;color:#8a4b12;">PRIORIDAD 01</p>
+                <h3 style="margin:0 0 12px;font-size:21px;line-height:1.3;color:#8a4b12;">{{priority_1_label}}</h3>
+                <p style="margin:0 0 10px;font-size:15px;line-height:1.5;color:#2a1d12;"><strong style="color:#2a1d12;">Nivel:</strong> {{priority_1_score}} de {{priority_1_max}}</p>
+                <p style="margin:0 0 12px;font-size:15px;line-height:1.6;color:#2a1d12;">{{priority_1_text}}</p>
+                <p style="margin:0 0 4px;font-size:15px;line-height:1.5;color:#2a1d12;"><strong style="color:#2a1d12;">Primera orientación</strong></p>
+                <p style="margin:0;font-size:15px;line-height:1.6;color:#2a1d12;">{{priority_1_advice}}</p>
+              </td></tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- PRIORIDAD 02 -->
+        <tr>
+          <td style="padding:26px 40px 0;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #dccfb3;">
+              <tr><td style="padding:22px 0 0;">
+                <p style="margin:0 0 8px;font-size:12px;letter-spacing:3px;text-transform:uppercase;color:#8a4b12;">PRIORIDAD 02</p>
+                <h3 style="margin:0 0 12px;font-size:21px;line-height:1.3;color:#8a4b12;">{{priority_2_label}}</h3>
+                <p style="margin:0 0 10px;font-size:15px;line-height:1.5;color:#2a1d12;"><strong style="color:#2a1d12;">Nivel:</strong> {{priority_2_score}} de {{priority_2_max}}</p>
+                <p style="margin:0 0 12px;font-size:15px;line-height:1.6;color:#2a1d12;">{{priority_2_text}}</p>
+                <p style="margin:0 0 4px;font-size:15px;line-height:1.5;color:#2a1d12;"><strong style="color:#2a1d12;">Primera orientación</strong></p>
+                <p style="margin:0;font-size:15px;line-height:1.6;color:#2a1d12;">{{priority_2_advice}}</p>
+              </td></tr>
+            </table>
+          </td>
+        </tr>
+<!-- REFLEXIÓN Y LLAMADO A LA ACCIÓN -->
+        <tr>
+          <td style="padding:32px 40px 0;">
+            <h2 style="margin:0 0 14px;font-size:20px;line-height:1.3;color:#2a1d12;">Una última cosa</h2>
+            <p style="margin:0 0 12px;font-size:15px;line-height:1.6;color:#2a1d12;">Si algo de este mapa te incomodó, quédate con esa incomodidad un rato. Ahí suele haber una pregunta valiosa esperando. Yo todavía estoy aprendiendo a hacerme las mías.</p>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding:22px 40px 0;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td align="center" bgcolor="#8a4b12" style="border-radius:6px;">
+                  <a href="{{cta_url}}" target="_blank" style="display:inline-block;padding:14px 30px;font-size:15px;font-weight:700;color:#fdf8ec;text-decoration:none;">{{cta_text}}</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- FIRMA -->
+        <tr>
+          <td style="padding:34px 40px 0;">
+            <p style="margin:0 0 4px;font-size:15px;line-height:1.5;color:#2a1d12;">Un abrazo,</p>
+            <p style="margin:0;font-size:16px;line-height:1.4;font-weight:700;color:#2a1d12;">Jesús Díaz (Coach JD)</p>
+            <p style="margin:0;font-size:14px;line-height:1.5;color:#66523d;">Movimiento Colibrí LATAM</p>
+          </td>
+        </tr>
+
+        <!-- PIE -->
+        <tr>
+          <td style="padding:28px 40px 36px;">
+            <p style="margin:0;padding-top:18px;border-top:1px solid #dccfb3;font-size:12px;line-height:1.5;color:#66523d;">Este informe se generó automáticamente a partir de tus respuestas. Es una herramienta de reflexión personal y no reemplaza una asesoría profesional.</p>
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
