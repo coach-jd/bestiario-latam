@@ -35,7 +35,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un mapa antiguo de América Latina sobre una mesa de madera, iluminado por una lámpara de queroseno
 
 ```json
@@ -72,7 +72,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Una brújula de latón sobre un mapa dibujado a mano que no coincide con el terreno de la mesa
 
 ```json
@@ -111,7 +111,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Vitrina antigua de gabinete con estatuillas de bronce de un unicornio, una gacela, una cebra y un camello
 
 ```json
@@ -148,7 +148,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Cuaderno de campo abierto con bocetos a tinta de una gacela y una cebra
 
 ```json
@@ -185,7 +185,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** El borde de un mapa antiguo desplegado: el papel termina, pero la mesa de madera sigue
 
 ```json
@@ -224,7 +224,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un velero pequeño navegando de noche entre la niebla hacia una luz lejana
 
 ```json
@@ -261,7 +261,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Una pequeña sirena tallada en madera y conchas sobre un mapa náutico antiguo
 
 ```json
@@ -298,7 +298,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un telescopio de latón sobre la cubierta de un velero apuntando hacia el horizonte en calma
 
 ```json
@@ -337,7 +337,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un cisne blanco emergiendo de la neblina en un lago al amanecer, lejos de la orilla
 
 ```json
@@ -374,7 +374,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un cisne blanco nadando de perfil en un lago tranquilo, con reflejos suaves en el agua
 
 ```json
@@ -411,7 +411,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Una lupa de latón sobre un mapa de América Latina, enfocando una zona pequeña
 
 ```json
@@ -450,7 +450,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un colibrí en vuelo estacionario frente a una flor roja en un bosque tropical con neblina
 
 ```json
@@ -487,7 +487,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un colibrí en vuelo estacionario recogiendo una gota de agua de una hoja, en primer plano
 
 ```json
@@ -526,7 +526,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un delfín saltando sobre el mar abierto al amanecer
 
 ```json
@@ -563,7 +563,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Dos delfines nadando junto a una pequeña lancha de madera en aguas tranquilas
 
 ```json
@@ -600,7 +600,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Vista aérea del mar: una franja de aguas claras y poco profundas junto a una zona de agua azul oscuro y profunda
 
 ```json
@@ -639,7 +639,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un auditorio vacío con atriles de orquesta y partituras iluminados por luz cálida
 
 ```json
@@ -676,7 +676,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Vista aérea de cuatro ríos que se unen en un solo cauce dentro de la selva
 
 ```json
@@ -713,7 +713,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** La mano de un director de orquesta con una batuta frente a atriles iluminados, con los músicos desenfocados
 
 ```json
@@ -752,7 +752,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Escritorio de campo con una libreta abierta, una lupa, una brújula y una lámpara encendida
 
 ```json
@@ -789,7 +789,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Una brújula de latón sobre una libreta abierta con las páginas en blanco
 
 ```json
@@ -826,7 +826,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Dos personas conversando de espaldas en un café de barrio, con dos tazas sobre la mesa
 
 ```json
@@ -865,7 +865,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un bosque de montaña al amanecer con luz atravesando la neblina y plantas jóvenes bajo los árboles
 
 ```json
@@ -902,7 +902,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un brote joven creciendo entre hojas secas en el suelo de un bosque, con luz suave
 
 ```json
@@ -941,7 +941,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Una persona de espaldas entra en una sala oscura con una linterna encendida
 
 ```json
@@ -978,7 +978,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Una linterna encendida sobre un mapa antiguo en una habitación en penumbra
 
 ```json
@@ -1017,7 +1017,7 @@
 
 - **Uso:** imagen hero (abre el capítulo)
 - **Proporción:** 16:9
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Una pluma, una brújula, una lupa y una lámpara sobre un escritorio de madera
 
 ```json
@@ -1054,7 +1054,7 @@
 
 - **Uso:** imagen de apoyo dentro del texto
 - **Proporción:** 3:2
-- **Estado:** pendiente
+- **Estado:** lista
 - **Descripción:** Un cuaderno abierto con una pluma fuente sobre una página en blanco, junto a una lámpara
 
 ```json

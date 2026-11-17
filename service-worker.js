@@ -23,7 +23,7 @@
      sitio no funciona offline.
 */
 
-const CACHE_NAME = 'bestiario-latam-v1';
+const CACHE_NAME = 'bestiario-latam-v2';
 
 const APP_SHELL = [
   './',

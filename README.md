@@ -6,7 +6,7 @@ quien lo mantiene; no hace falta saber programar para lo habitual.
 
 ## Estado de este proyecto
 
-- **Imágenes pendientes:** 28 (11 heros y 17 de apoyo) — ver `prompts-imagenes.md`. Portada y foto del autor ya están.
+- **Imágenes:** las 28 (11 heros y 17 de apoyo) ya están generadas en Google Flow (Nano Banana). Las de apoyo salieron en 4:3.
 - **Leads:** configurados con el servicio PHP del dominio (`libro_web/correo/enviar.php?libro=bestiario-latam`). Falta el renglón en `config.php` del servidor.
 - **Por revisar del autor:** subtítulos agregados, correcciones del «sino», diagnóstico completo, bio del autor y textos del correo (`email/plantilla-diagnostico.html`).
 
